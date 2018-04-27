@@ -1,4 +1,4 @@
 sceneSetups:
-- path: C:/work/CW Project/Assets/Scene/Scene.unity
+- path: Assets/Scenes/Master/Title.unity
   isLoaded: 1
   isActive: 1
