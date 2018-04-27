@@ -1,1 +1,4 @@
-sceneSetups: []
+sceneSetups:
+- path: C:/work/CW Project/Assets/Scene/Scene.unity
+  isLoaded: 1
+  isActive: 1
